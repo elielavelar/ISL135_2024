@@ -6,9 +6,18 @@ body{
     padding: 50px;
 }
 
-#boton{
+#boton {
     padding: 10px 20px;
     background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.boton {
+    padding: 10px 20px;
+    background-color: green;
     color: white;
     border: none;
     border-radius: 5px;
